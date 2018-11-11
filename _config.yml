@@ -1,4 +1,4 @@
 theme: jekyll-theme-time-machine
 title: Test
 description: just a test
-show_downloads: flase
+show_downloads: false
